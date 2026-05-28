@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "maçã",
+    "preco": 3.4,
+    "quantidade": 432,
+    "tipo": "perecivel",
+    "dataValidade": "23-08-2027"
+  },
+  {
+    "nome": "arroz",
+    "preco": 23.43,
+    "quantidade": 21,
+    "tipo": "perecivel",
+    "dataValidade": "28-09-2026"
+  },
+  {
+    "nome": "fone",
+    "preco": 43.0,
+    "quantidade": 900,
+    "tipo": "eletronico",
+    "garantiaMeses": 6
+  }
+]
